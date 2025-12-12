@@ -31,5 +31,3 @@ I'm a passionate developer focused on building efficient and innovative solution
 - GitHub: [@Ariel-Gal](https://github.com/Ariel-Gal)
 
 ---
-
-💡 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
